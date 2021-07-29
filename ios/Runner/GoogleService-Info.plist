@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>978842834246-2qlbvs4fdpnmn0p0d1f48h27peon0gge.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.978842834246-2qlbvs4fdpnmn0p0d1f48h27peon0gge</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfaCgWeOQ8QGWQffYbrHNlGJ1_UOwqKK4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978842834246</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.behealthy.behealthy</string>
+	<key>PROJECT_ID</key>
+	<string>beheathly-6dcbf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beheathly-6dcbf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978842834246:ios:4121cf9b2b39ba6a910147</string>
+</dict>
+</plist>
